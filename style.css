@@ -1,0 +1,72 @@
+body{
+
+  background-size: cover;
+  
+}
+
+.heading {
+
+  font-size: 22px;
+  width: 100%;
+  margin: 0px;
+  font-weight: bold;
+  color: red;
+
+}
+
+.notes {
+
+  width: 100%;
+
+}
+
+#footer {
+
+  text-align: center;
+  background-color: grey;
+  width: 100%;
+  bottom: 0;
+  margin: 0px;
+  position: fixed;
+
+}
+
+canvas {
+
+  border: 2px solid rgb(59, 243, 59);
+  border-radius: 15px;
+  margin-top: 150px;
+  box-shadow: 5px 5px 5px white;
+
+}
+
+#start_btn,#status,#no_of_obj {
+
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+input {
+
+  background-color: rgb(99, 240, 99);
+  width: 66%;
+  border-radius: 15px;
+  border: none;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+input:hover {
+
+  background-color: rgb(99, 240, 99);
+  width: 66%;
+  box-shadow: 5px 5px 5px white;
+  transition: 0.7s;
+  border: none;
+  border-radius: 15px;
+  text-align: center;
+  font-weight: bold;
+
+}
